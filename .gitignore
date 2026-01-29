@@ -1,0 +1,9 @@
+# Ignorar credenciales
+.env
+
+# Ignorar archivos de Airflow/Docker
+logs/
+plugins/
+config/
+*.pyc
+__pycache__/
