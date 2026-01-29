@@ -59,4 +59,4 @@ git add .
 git commit -m "Primer commit: Pipeline ETL Airflow a Azure"
 
 👤 Autor
-Alejandro Arango - Data Engineering Student
+Alejandro Arango - Data Engineering
