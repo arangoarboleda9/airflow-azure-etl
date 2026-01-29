@@ -21,7 +21,7 @@ with DAG(
     dag_id='etl_azure_v1',
     default_args=default_args,
     description='Mi primer pipeline de API a Azure SQL',
-    schedule=None, # Lo activaremos manualmente para probar
+    schedule=None, 
     start_date=datetime(2024, 1, 1),
     catchup=False,
     tags=['proyecto_ingenieria'],
